@@ -1,1 +1,2 @@
-# steke78.github.io
+# MSML602
+Staries Teke
